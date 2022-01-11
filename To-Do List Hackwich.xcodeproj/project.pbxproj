@@ -14,6 +14,7 @@
 		3F37F9D7278C974D0011085A /* To_Do_List_HackwichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F37F9D6278C974D0011085A /* To_Do_List_HackwichTests.swift */; };
 		3F37F9E2278C974D0011085A /* To_Do_List_HackwichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F37F9E1278C974D0011085A /* To_Do_List_HackwichUITests.swift */; };
 		3F37F9F0278DE8260011085A /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F37F9EF278DE8250011085A /* ToDoList.swift */; };
+		3FC073BE278DEB2E000B5534 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC073BD278DEB2E000B5534 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3F37F9E1278C974D0011085A /* To_Do_List_HackwichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_List_HackwichUITests.swift; sourceTree = "<group>"; };
 		3F37F9E3278C974D0011085A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F37F9EF278DE8250011085A /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		3FC073BD278DEB2E000B5534 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3F37F9C4278C97460011085A /* To_Do_List_HackwichApp.swift */,
 				3F37F9C6278C97460011085A /* ContentView.swift */,
+				3FC073BD278DEB2E000B5534 /* AddItemView.swift */,
 				3F37F9EF278DE8250011085A /* ToDoList.swift */,
 				3F37F9C8278C974C0011085A /* Assets.xcassets */,
 				3F37F9CD278C974C0011085A /* Info.plist */,
@@ -265,6 +268,7 @@
 				3F37F9C7278C97460011085A /* ContentView.swift in Sources */,
 				3F37F9F0278DE8260011085A /* ToDoList.swift in Sources */,
 				3F37F9C5278C97460011085A /* To_Do_List_HackwichApp.swift in Sources */,
+				3FC073BE278DEB2E000B5534 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
